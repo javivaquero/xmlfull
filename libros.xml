@@ -9,6 +9,7 @@
 		<price>30.00</price>
 		<obra>Obra: </obra>
 		<moneda>€</moneda>
+		<precio>Precio: </precio>
 	</book>
 	<book category="children">
 		
@@ -19,6 +20,7 @@
 		<price>29.99</price>
 		<obra>Obra: </obra>
 		<moneda>€</moneda>
+		<precio>Precio: </precio>
 	</book>
 	<book category="web">
 		<title lang="en">XQuery Kick Start</title>
@@ -32,6 +34,7 @@
 		<price>49.99</price>
 		<obra>Obra: </obra>
 		<moneda>€</moneda>
+		<precio>Precio: </precio>
 	</book>
 	<book category="web">
 		<title lang="en">Learning XML</title>
@@ -41,5 +44,6 @@
 		<price>39.95</price>
 		<obra>Obra: </obra>
 		<moneda>€</moneda>
+		<precio>Precio: </precio>
 	</book>
 </bookstore>
