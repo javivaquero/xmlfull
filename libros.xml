@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="libros.xsl"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/xmlfull/libros.xsd">
+	<book category="cooking">
+		<title lang="en">Everyday Italian</title>
+		<author>Giada De Laurentiis</author>
+		<año>Año de producción: </año>
+		<year>2005</year>
+		<price>30.00</price>
+		<obra>Obra: </obra>
+		<moneda>€</moneda>
+	</book>
+	<book category="children">
+		
+		<title lang="en">Harry Potter</title>
+		<author>J K. Rowling</author>
+		<año>Año de producción: </año>
+		<year>2005</year>
+		<price>29.99</price>
+		<obra>Obra: </obra>
+		<moneda>€</moneda>
+	</book>
+	<book category="web">
+		<title lang="en">XQuery Kick Start</title>
+		<author>James McGovern</author>
+		<author>Per Bothner</author>
+		<author>Kurt Cagle</author>
+		<author>James Linn</author>
+		<author>Vaidyanathan Nagarajan</author>
+		<año>Año de producción: </año>
+		<year>2003</year>
+		<price>49.99</price>
+		<obra>Obra: </obra>
+		<moneda>€</moneda>
+	</book>
+	<book category="web">
+		<title lang="en">Learning XML</title>
+		<author>Erik T. Ray</author>
+		<año>Año de producción: </año>
+		<year>2003</year>
+		<price>39.95</price>
+		<obra>Obra: </obra>
+		<moneda>€</moneda>
+	</book>
+</bookstore>
