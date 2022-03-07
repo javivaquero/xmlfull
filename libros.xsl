@@ -15,6 +15,6 @@
         <h2><xsl:value-of select="obra"/><xsl:value-of select="title"/> </h2>
     
         <p><xsl:value-of select="año"/><xsl:value-of select="year"/></p>
-        <p><span><xsl:value-of select="precio"/><xsl:value-of select="price"/></span>  <xsl:value-of select="moneda"/></p>
+        <p><xsl:value-of select="precio"/><span><xsl:value-of select="price"/></span>  <xsl:value-of select="moneda"/></p>
   </xsl:template>
 </xsl:stylesheet>
